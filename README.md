@@ -66,6 +66,9 @@ The primary relationship is between the **Unicorn_Companies** table and the **Da
 
 ### **Visualizations**
 
-Using this data model in Power BI enables the creation of insightful visualizations, such as:
+I created this Power BI dashboard to visualize the insights I discovered
 
+![Row count check](assets/images/Unicorn_page-0001.jpg)
 
+---
+![Row count check](assets/images/thank-you.png)
