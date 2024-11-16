@@ -18,7 +18,7 @@ The analysis does not guarantee the comprehensiveness or representativeness of t
 
 ---
 
-### **Key Questions Addressed**
+### **Problem Statement**
 1. **Number of companies by industry**: Which industries dominate the unicorn landscape?  
 2. **Time to Unicorn Status**: How long does it typically take for a startup to achieve unicorn status?  
 3. **Funding vs. Valuation**: How much funding do unicorns receive, and how does it compare to their valuations?  
@@ -66,14 +66,6 @@ The primary relationship is between the **Unicorn_Companies** table and the **Da
 
 ### **Visualizations**
 
-Using this data model in Power BI enables creating insightful visualizations, such as:
+Using this data model in Power BI enables the creation of insightful visualizations, such as:
 
-- **Timeline Analysis**: Visualize the number of unicorns joining per year and by industry using line or column charts. This helps identify growth trends and peak periods for unicorn emergence.
-  
-- **Geographic Distribution**: Use maps to show the concentration of unicorns by continent or country, highlighting regions with the highest innovation and investment levels.
-  
-- **Funding vs. Valuation**: Create bar or bubble charts to compare the funding amounts against valuations, providing insight into which industries attract the most capital.
-  
-- **Industry Breakdown**: A pie or donut chart showing the distribution of unicorns across industries, showcasing which sectors are leading in unicorn counts.
-  
-- **Growth Duration**: Using calculated fields like "Date Difference," plot histograms or box plots to show how long it takes companies in various industries to reach unicorn status.
+
