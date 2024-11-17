@@ -8,7 +8,7 @@ This project explores what makes a company a unicorn—a privately held startup 
 - **Venture Capital Investment**: Attracting significant funding from investors.  
 - **Technology Focus**: Leveraging technology to drive growth and innovation.
 
-![cover](images/unicorn_cover.jpg)
+![cover](assets/images/startup.jpg)
 
 ### **Disclaimer**  
 
