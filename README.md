@@ -1,4 +1,4 @@
-# **Unveiling the Secrets of Unicorn Companies: Trends, Insights, and Patterns**
+### **Unveiling the Secrets of Unicorn Companies: Trends, Insights, and Patterns**
 
 ### **Introduction**
 This project explores what makes a company a unicorn—a privately held startup valued at $1 billion or more. Unicorns are rare and extraordinary, characterized by:
